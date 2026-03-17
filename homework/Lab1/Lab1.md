@@ -59,7 +59,7 @@ I'm learning Kotlin!
 **你的答案：**
 
 ```kotlin
-// 请将修正后的完整代码粘贴至此
+// 请将完整代码粘贴至此
 ```
 
 ---
@@ -85,7 +85,6 @@ fun main() {
 
 ```kotlin
 // 请将修正后的完整代码粘贴至此
-
 ```
 
 ---
@@ -104,7 +103,6 @@ fun main() {
 
 ```kotlin
 // 请将修正后的完整代码粘贴至此
-
 ```
 
 ---
@@ -129,7 +127,6 @@ Course: Kotlin
 
 ```kotlin
 // 请将修正后的完整代码粘贴至此
-
 ```
 
 ---
@@ -148,7 +145,6 @@ fun main() (
 
 ```kotlin
 // 请将修正后的完整代码粘贴至此
-
 ```
 
 ---
@@ -175,7 +171,7 @@ You have 42 unread messages.
 **你的答案：**
 
 ```kotlin
-
+// 请将完整代码粘贴至此
 ```
 
 ---
@@ -193,10 +189,9 @@ Package for zhangwei will arrive, tracking ID: 20231042.
 **你的答案：**
 
 ```kotlin
-
+// 请将完整代码粘贴至此
 ```
 
- 
 ---
 
 ## 题目 6：消息格式
@@ -224,7 +219,6 @@ Total: 44
 
 ```kotlin
 // 请将完整代码粘贴至此
-
 ```
 
 ---
@@ -247,7 +241,6 @@ Total: 44
 
 ```kotlin
 // 请将完整代码粘贴至此
-
 ```
 
 ---
@@ -280,7 +273,6 @@ Happy Birthday, zhangwei! You are now 4 years old!
 
 ```kotlin
 // 请将完整代码粘贴至此
-
 ```
 
 ---
