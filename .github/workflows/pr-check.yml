@@ -2,7 +2,7 @@ name: PR 信息收集
 
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize, reopened, edited]
 
 jobs:
   collect:
